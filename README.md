@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesHertz
 - 👀 I’m interested in ... Coding and things that chanllenge me
-- 🌱 I’m currently learning ... Java, Python, Html and Css
+- 🌱 I’m currently learning ... Java, Python, C, Html and Css
 - 💞️ I’m looking to collaborate on ... not at all
 - 📫 How to reach me ...
   jherryhertz@gmail.com
