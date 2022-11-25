@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesHertz
-- 👀 I’m interested in ... Coding and things that challenge me
-- 🌱 I’m currently learning ... Java, Python, C, Html and Css
-- 💞️ I’m looking to collaborate on ... not at all
+- 👀 I’m interested in ... typewriting, Operating Systems, Computers Networks and Computer Architecture
+- 🌱 I’m currently studying Computer Science and Engineering
+- 💞️ I’m looking to collaborate on ... linux kernel
 
 
 <!---
